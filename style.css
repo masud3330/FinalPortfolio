@@ -1,0 +1,128 @@
+
+.container{
+    margin-bottom: 40px;
+}
+.navbar{
+    background-color: #f3eff0;
+    
+}
+.logo{
+    height: 100px;
+}
+.banner-left-side{
+    background-color: rgba(241, 236, 236, 0.24);
+    
+    height: 400px;
+}
+.masud{
+    -webkit-text-stroke: 1px red;
+    color: transparent;
+    font-size: 45px;
+}
+.img-profile{
+    width: 400px;
+   
+    border-radius: 50px;
+}
+.Details, .Awards, .Experience{
+    margin: 0 auto;
+    
+    
+    border: 2px solid #f00638 ;
+    border-radius: 10px ;
+    width: 100px;
+    height: 30px;
+    padding: 3px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: black;
+}
+.Details:hover{
+    background-color: #f00638;
+    color: #fffcfc;
+}
+.Awards:hover{
+    background-color: #f00638;
+    color: #fffcfc;
+}
+.Experience:hover{
+    background-color: #f00638;
+    color: #fffcfc;
+   
+}
+.Details-header, .Awards-header,.Experience-header{
+    color:rgb(238, 16, 53);
+
+    }
+.skill-magerment{
+    height: 5px;
+    background-color: rgb(223, 220, 220);
+    border-radius: 10px;
+}
+.skill-magerment2{
+    height: 5px;
+    background-color: #f00638;
+    width: 98%;
+    border-radius: 10px;
+}
+.css{
+    width: 80%;
+}
+.img-fluid{
+    width: 200px;
+}
+#See-more{
+    text-decoration: none;
+}
+.See-more{
+    margin: auto auto;
+    
+    border: 2px solid #f00638 ;
+    border-radius: 10px ;
+    width: 100px;
+    height: 30px;
+    padding: 3px;
+    margin-bottom: 30px;
+    text-align: center;
+
+    color: black;
+}
+.See-more:hover{
+    background-color: #f00638;
+    color: #fffcfc;
+   
+}
+.above-the-fotter h4{
+
+    padding-bottom: 30px;
+    text-align: center;
+}
+.above-the-fotter{
+    background-color: #f3eff0;
+    height: 200px;
+}
+.Hire-me{
+    color: red; 
+    font-weight: 500;
+    border: 2px solid tomato;
+    border-radius: 5px;
+    padding: 3px;
+}
+.footer{
+    background-color: #f3eff0;
+    color: #050a14;
+    height: 200px;
+    text-align: center;
+    padding: 50px 0;
+    -webkit-text-stroke: .5px #050a14;
+    color: transparent;
+    
+   
+
+    
+}
+.manu{
+    color: #050a14;
+    margin: 0 10px;
+    
+}
